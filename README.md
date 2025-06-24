@@ -114,8 +114,6 @@ A multi-line chart visualizing how frequently each genre appears in movies acros
 
 ---
 
----
-
 ## 🙋‍♂️ Author
 
 **aranyaadheu**  
