@@ -114,12 +114,6 @@ A multi-line chart visualizing how frequently each genre appears in movies acros
 
 ---
 
-## 📌 To-Do / Future Improvements
-
-- [ ] Add interactive visualizations with Plotly or Streamlit  
-- [ ] Integrate movie revenue analysis  
-- [ ] Build a dashboard or report export (PDF/Excel)  
-
 ---
 
 ## 🙋‍♂️ Author
